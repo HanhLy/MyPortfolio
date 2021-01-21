@@ -471,6 +471,18 @@ input[type="text"]::placeholder {
 	text-align: center;
 }
 
+.persona{
+	max-width: 50rem;
+	margin-left: 10rem;
+}
+
+
+.journeymap-1{
+	max-width: 45rem;
+	margin-left: 10rem;
+}
+
+
 @media (min-width: 890px) {
 	
 	.billpay div img, .renthome div img {
